@@ -14,14 +14,18 @@ API Twitter, Scrapper, Spark Unified analytics Engine, Python cs, C/C++
 Text minning sangatlah menyakitkan dan mengambil resources hardware yang tidak sedikit, semua proses dijalankan di atas Linux OS Box 32GB ram,  16 Prosesor.
 
 ### Publikasi
-Publikasi adalah subjektive (gimana gue aja), kebanyakan tokoh tokoh yang menarik minat gue aja dan aktif di twitter
+Publikasi adalah subjective (gimana gue aja), kebanyakan tokoh tokoh yang menarik minat gue aja dan aktif di twitter, publikasi bisa lihat per folder
 
 1. Budiman Sudjatmiko (Selesai, Komplit)
 2. Ridwan Kamil (on progress)
 3. AHY (pesimis mode)
+4. Sahrini (What the f*** )
+5. Yogyakarta 
+6. Surakarta
+7. Bali
 
 ### Analisis Lanjutan
-Jika anda menggunakan Apache Spark Unified Analytics Engine, gunakan Spark Sentiment Analysis module.
+Jika anda menggunakan Apache Spark Unified Analytics Engine dan membutuhkan sentiment analysis, silahkan gunakan module tersebut.
 
 ### Lisensi
 CC BY 4.0 , lihat di sini : 
